@@ -1,0 +1,241 @@
+"<Golf>"
+	"golf" @nsubj #1->4
+"<is>"
+	"zeen" @cop #2->4
+"<'ne>"
+	"ein" @det #3->4
+"<percisiesport>"
+	"percisiesport" n mf sg @x #4->
+"<gespäöld>"
+	"späöle" vblex past pp @acl #5->4
+"<op>"
+	"op" pr @case #6->9
+"<'n>"
+	"ein" det ind mf sg @det #7->9
+"<ope>"
+	"ope" adj sint attr mf sg @amod #8->9
+"<veld>"
+	"veld" n mf sg @obj #9->5
+"<,>"
+	"," cm @punct #10->13
+"<de>"
+	"de" det def mf sg @det #11->13
+"<zoegeneumde>"
+	"zoegeneumd" adj sint attr mf sg @amod #12->13
+"<golfbaon>"
+	"golfbaon" n mf sg @appos #13->9
+"<,>"
+	"," cm @punct #14->13
+"<boebij>"
+	"boebij" pr @case #15->16
+"<'t>"
+	"'t" prn p3 nt sg @obl #16->19
+"<de>"
+	"de" det def mf sg @det #17->18
+"<bedoeling>"
+	"bedoeling" n mf sg @nsubj #18->19
+"<is>"
+	"zeen" vbser pres p3 sg @parataxis #19->4
+"<veur>"
+	"veur" pr @mark #20->40
+"<mèt>"
+	"mèt" pr @case #21->23
+"<e>"
+	"ein" det int nt sg @det #22->23
+"<slaaghout>"
+	"slaaghout" n mfn @obl #23->40
+"<,>"
+	"," cm @punct #24->27
+"<de>"
+	"de" det def mf sg @det #25->27
+"<zoegeneumde>"
+	"zoegeneumd" adj sint attr mf sg @amod #26->27
+"<golfclub>"
+	"golfclub" n mf sg @appos #27->23
+"<,>"
+	"," cm @punct #28->27
+"<'ne>"
+	"ein" det ind mf sg @det #29->30
+"<bal>"
+	"bal" n mf sg @obj #30->40
+"<mèt>"
+	"mèt" pr @case #31->35
+"<zoe>"
+	"zoe" adv @advmod #32->33
+"<wieneg>"
+	"wieneg" adj sint pred @amod #33->35
+"<meugelek>"
+	"meugelek" adv @fixed #34->32
+"<sleeg>"
+	"slaog" n pl @obl #35->40
+"<in>"
+	"in" pr @case #36->38
+"<e>"
+	"ein" det ind nt sg @det #37->38
+"<leukske>"
+	"look" n dim nt sg @obl #38->40
+"<te>"
+	"te" pr @mark #39->40
+"<kriege>"
+	"kriege" vblex inf @ccomp #40->19
+"<.>"
+	"." sent @punct #41->40
+
+"<'t>"
+	"de" det def nt sg @det #1->2
+"<Look>"
+	"look" n nt sg @nsubj:pass #2->8
+"<(>"
+	"(" lpar @punct #3->5
+"<d'n>"
+	"de" det def mf sg @det #4->5
+"<hole>"
+	"hole" n mf sg @appos #5->2
+"<)>"
+	")" rpar @punct #6->5
+"<steit>"
+	"staon" vbaux pres p3 sg @aux #7->8
+"<aongegeve>"
+	"aongeve" vblex pasv @x #8->
+"<mèt>"
+	"mèt" pr @case #9->11
+"<e>"
+	"ein" det ind nt sg @det #10->11
+"<veendelke>"
+	"veendel" n dim nt sg @obl #11->8
+"<,>"
+	"," cm @punct #12->16
+"<zoetot>"
+	"zoetot" cnjsub @mark #13->16
+"<de>"
+	"de" det def mf sg @det #14->15
+"<golfer>"
+	"golfer" n mf sg @nsubj #15->16
+"<wèt>"
+	"weite" vblex pres p3 sg @ccomp #16->8
+"<boe>"
+	"boe" prn rel @obl #17->21
+"<heer>"
+	"heer" post @case #18->17
+"<op>"
+	"op" pr @case #19->17
+"<moot>"
+	"mote" vbaux pres p3 sg @aux #20->21
+"<riechte>"
+	"riechte" vblex inf @xcomp #21->16
+"<.>"
+	"." sent @punct #22->8
+
+"<Um>"
+	"um" pr @mark #1->7
+"<'t>"
+	"'t" prn p3 nt sg @parataxis #2->1
+"<de>"
+	"de" det def mf pl @det #3->4
+"<speulers>"
+	"speuler" n mf pl @obl #4->7
+"<lesteger>"
+	"lesteg" adj sint comp pred @advmod #5->7
+"<te>"
+	"te" pr @mark #6->7
+"<make>"
+	"make" vblex inf @advcl #7->14
+"<de>"
+	"de" det def mf sg @det #8->9
+"<bal>"
+	"bal" n mf sg @obj #9->12
+"<drin>"
+	"drin" adv @advmod #10->12
+"<te>"
+	"te" pr @mark #11->12
+"<kriege>"
+	"kriege" vblex inf @xcomp #12->7
+"<,>"
+	"," cm @punct #13->7
+"<bevat>"
+	"bevat" vblex pres p3 sg @x #14->
+"<de>"
+	"de" det def mf sg @det #15->16
+"<golfbaon>"
+	"golfbaon" n mf sg @nsubj #16->14
+"<(>"
+	"(" lpar @punct #17->24
+"<die>"
+	"die" prn rel mf sg @nsubj #18->24
+"<op>"
+	"op" pr @case #19->20
+"<topniveau>"
+	"topniveau" n mfn sg @obl #20->24
+"<oet>"
+	"oet" pr @case #21->23
+"<18>"
+	"18" num @nummod #22->23
+"<holes>"
+	"hole" n mfn pl @obl #23->24
+"<besteit>"
+	"bestaon" vblex pres p3 sg @appos #24->16
+"<)>"
+	")" rpar @punct #25->24
+"<es>"
+	"es" pr @case #26->27
+"<regel>"
+	"regel" n mfn sg @obl #27->14
+"<zandbunkers>"
+	"zandbunker" n mfn pl @obj #28->14
+"<,>"
+	"," cm @punct #29->30
+"<ooneffenhede>"
+	"ooneffenheid" _ @conj #30->28
+"<en>"
+	"en" cnjcoo @cc #31->32
+"<waterpeul>"
+	"waterpeul" n mfn pl @conj #32->28
+"<.>"
+	"." sent @punct #33->14
+
+"<De>"
+	"de" det def mf sg @det #1->3
+"<oetindeleke>"
+	"oetindelek" adj sint attr mf sg @amod #2->3
+"<score>"
+	"score" n mf sg @nsubj #3->5
+"<weurt>"
+	"waere" vbaux @aux #4->5
+"<berekend>"
+	"berekene" vblex pp @x #5->
+"<op>"
+	"op" pr @case #6->7
+"<par>"
+	"par" @obl #7->5
+"<,>"
+	"," cm @punct #8->10
+"<'t>"
+	"'t" det def nt sg @det #9->10
+"<aontal>"
+	"aontal" n nt sg @appos #10->7
+"<sleeg>"
+	"slaog" n mfn pl @nmod #11->10
+"<wat>"
+	"wat" prn rel @mark #12->17
+"<de>"
+	"de" det def mf sg @det #13->15
+"<gemiddelde>"
+	"gemiddeld" adj sint attr mf sg @amod #14->15
+"<golfer>"
+	"golfer" n mf sg @nsubj #15->17
+"<nujeg>"
+	"nujeg" adv @advmod #16->17
+"<heet>"
+	"höbbe" vbhaver pres p3 sg @acl #17->10
+"<veur>"
+	"veur" pr @case #18->20
+"<alle>"
+	"al" adj sint attr mfn pl @det #19->20
+"<holes>"
+	"hole" n mfn mfn pl @obj #20->22
+"<te>"
+	"te" pr @mark #21->22
+"<make>"
+	"make" vblex inf @xcomp #22->17
+"<.>"
+	"." sent @punct #23->5
